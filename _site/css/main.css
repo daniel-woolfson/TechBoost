@@ -123,9 +123,9 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url("../img/blue_geometric_pattern_background.png");
+  background-image: url("../img/blue_pattern_background_3.png");
   text-align: center;
-  color: white; }
+  color: black; }
   header .header-content {
     position: relative;
     text-align: center;
